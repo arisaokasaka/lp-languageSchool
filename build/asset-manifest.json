@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/static/js/main.d6e15f79.chunk.js",
+    "main.js.map": "/static/js/main.d6e15f79.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7918a0be.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7918a0be.js.map",
+    "static/js/2.ba42c375.chunk.js": "/static/js/2.ba42c375.chunk.js",
+    "static/js/2.ba42c375.chunk.js.map": "/static/js/2.ba42c375.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.8301fcb256d43ee3552f80ae815655fb.js": "/precache-manifest.8301fcb256d43ee3552f80ae815655fb.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.ba42c375.chunk.js.LICENSE.txt": "/static/js/2.ba42c375.chunk.js.LICENSE.txt",
+    "static/media/lines.png": "/static/media/lines.553373e3.png",
+    "static/media/man.jpg": "/static/media/man.c1fd0640.jpg",
+    "static/media/oldCouple.jpg": "/static/media/oldCouple.6d3fe315.jpg",
+    "static/media/parent.jpg": "/static/media/parent.bdb00133.jpg",
+    "static/media/ribbon.png": "/static/media/ribbon.0c778c78.png",
+    "static/media/student.jpg": "/static/media/student.b2c2fa7c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7918a0be.js",
+    "static/js/2.ba42c375.chunk.js",
+    "static/js/main.d6e15f79.chunk.js"
+  ]
+}
