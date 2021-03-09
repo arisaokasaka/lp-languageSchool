@@ -23,7 +23,7 @@ class Voice extends React.Component{
                     <div className='modal-inner'>
                         <div className='modal-header'></div>
                         <div className='modal-content'>
-                            <img src={this.props.image}/>
+                            <img src={this.props.image} alt="お客様の写真"/>
                             <h3>{this.props.name}</h3>
                             <h3>{this.props.title}</h3>
                             <p>{this.props.detail}</p>
@@ -41,12 +41,12 @@ class Voice extends React.Component{
             }
 
         return(
-            <div className='voice-card'>
+            <div>
                 <div
                     className='voice-item'
                     onClick={()=>{this.handleClickVoice()}}
                 >
-                    <img src={this.props.image}/>
+                    <img src={this.props.image} alt="お客様の写真"/>
                     <p>{this.props.name}</p>
                     <p>{this.props.title}</p>
                 </div>

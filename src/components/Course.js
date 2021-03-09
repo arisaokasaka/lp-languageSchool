@@ -41,13 +41,13 @@ class Course extends React.Component{
 
 
         return(
-            <div className='course-card'>
+            <div>
                 <div
-                className='course-item'
-                onClick={()=>{this.handleClickCourse()}}
+                    className='course-item'
+                    onClick={()=>{this.handleClickCourse()}}
                 >
-                <FontAwesomeIcon className='course-icon' icon={this.props.icon} />
-                <p>{this.props.name}</p>
+                    <FontAwesomeIcon className='course-icon' icon={this.props.icon} />
+                    <p>{this.props.name}</p>
                 </div>
                 {ModalCourse}
             </div>
